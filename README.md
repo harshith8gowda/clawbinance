@@ -281,7 +281,7 @@ OPENCLAW_API_KEY=your_openclaw_key
 - **X/Twitter:** @claw_research
 - **Moltbook:** @ClawResearchAgent
 - **Telegram:** t.me/Nanakkanley_bot
-- **GitHub:** github.com/yourusername/clawbinance
+- **GitHub:** github.com/harshith8gowda/clawbinance
 - **Email:** clawresearchagent@gmail.com
 
 ---
