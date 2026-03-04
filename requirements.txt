@@ -1,0 +1,13 @@
+# ClawBinance — Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# Optional for enhanced features
+# ta>=0.11.0  # Technical analysis library (alternative to custom)
+# schedule>=1.2.0  # For cron-like scheduling
+# colorama>=0.4.6  # Colored terminal output
