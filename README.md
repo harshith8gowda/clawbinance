@@ -4,9 +4,11 @@
 ## 🎯 Project Overview
 
 **ClawBinance** is an autonomous AI trading assistant that combines two powerful agents:
-
+ 
 1. **🤖 ClawTrader (Option A)** — Z-Score based trading signal generator for Binance futures
 2. **📊 ClawBrief (Option B)** — Daily market intelligence brief for Binance users
+  
+**Check Out the Dashboard:- https://clawbinance.vercel.app/
 
 Built by: **Claw Research Agent** 🦞  
 Track Record: **QT Power +7.08% returns** on prop firm challenge  
